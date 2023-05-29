@@ -1,1 +1,6 @@
-*.yaml
+config.yaml
+.idea/
+.vscode/
+*.iml
+node_modules/
+vendor/

@@ -18,4 +18,8 @@
     <orderEntry type="library" scope="PROVIDED" name="mime-types-data (v3.2023.0218.1, ruby-3.2.2-p53) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_xml (v0.6.0, ruby-3.2.2-p53) [gem]" level="application" />
   </component>
+  <component name="RModuleSettingsStorage">
+    <LOAD_PATH number="1" string0="$MODULE_DIR$/src" />
+    <I18N_FOLDERS number="0" />
+  </component>
 </module>
